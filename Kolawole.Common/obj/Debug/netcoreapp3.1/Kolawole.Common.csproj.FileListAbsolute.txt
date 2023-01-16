@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\LearningLinq\Kolawole.Common\bin\Debug\netcoreapp3.1\Kolawole.Common.deps.json
+C:\Users\HP\source\repos\LearningLinq\Kolawole.Common\bin\Debug\netcoreapp3.1\Kolawole.Common.dll
+C:\Users\HP\source\repos\LearningLinq\Kolawole.Common\bin\Debug\netcoreapp3.1\Kolawole.Common.pdb
+C:\Users\HP\source\repos\LearningLinq\Kolawole.Common\obj\Debug\netcoreapp3.1\Kolawole.Common.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LearningLinq\Kolawole.Common\obj\Debug\netcoreapp3.1\Kolawole.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\LearningLinq\Kolawole.Common\obj\Debug\netcoreapp3.1\Kolawole.Common.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LearningLinq\Kolawole.Common\obj\Debug\netcoreapp3.1\Kolawole.Common.AssemblyInfo.cs
+C:\Users\HP\source\repos\LearningLinq\Kolawole.Common\obj\Debug\netcoreapp3.1\Kolawole.Common.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LearningLinq\Kolawole.Common\obj\Debug\netcoreapp3.1\Kolawole.Common.dll
+C:\Users\HP\source\repos\LearningLinq\Kolawole.Common\obj\Debug\netcoreapp3.1\Kolawole.Common.pdb

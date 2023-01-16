@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\LearningLinq\LearningLinq\bin\Debug\netcoreapp3.1\LearningLinq.exe
+C:\Users\HP\source\repos\LearningLinq\LearningLinq\bin\Debug\netcoreapp3.1\LearningLinq.deps.json
+C:\Users\HP\source\repos\LearningLinq\LearningLinq\bin\Debug\netcoreapp3.1\LearningLinq.runtimeconfig.json
+C:\Users\HP\source\repos\LearningLinq\LearningLinq\bin\Debug\netcoreapp3.1\LearningLinq.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LearningLinq\LearningLinq\bin\Debug\netcoreapp3.1\LearningLinq.dll
+C:\Users\HP\source\repos\LearningLinq\LearningLinq\bin\Debug\netcoreapp3.1\LearningLinq.pdb
+C:\Users\HP\source\repos\LearningLinq\LearningLinq\obj\Debug\netcoreapp3.1\LearningLinq.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\LearningLinq\LearningLinq\obj\Debug\netcoreapp3.1\LearningLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\LearningLinq\LearningLinq\obj\Debug\netcoreapp3.1\LearningLinq.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LearningLinq\LearningLinq\obj\Debug\netcoreapp3.1\LearningLinq.AssemblyInfo.cs
+C:\Users\HP\source\repos\LearningLinq\LearningLinq\obj\Debug\netcoreapp3.1\LearningLinq.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LearningLinq\LearningLinq\obj\Debug\netcoreapp3.1\LearningLinq.dll
+C:\Users\HP\source\repos\LearningLinq\LearningLinq\obj\Debug\netcoreapp3.1\LearningLinq.pdb
+C:\Users\HP\source\repos\LearningLinq\LearningLinq\obj\Debug\netcoreapp3.1\LearningLinq.genruntimeconfig.cache
+C:\Users\HP\source\repos\LearningLinq\LearningLinq\bin\Debug\netcoreapp3.1\Kolawole.Common.dll
+C:\Users\HP\source\repos\LearningLinq\LearningLinq\bin\Debug\netcoreapp3.1\Kolawole.Common.pdb
+C:\Users\HP\source\repos\LearningLinq\LearningLinq\obj\Debug\netcoreapp3.1\LearningLinq.csproj.CopyComplete
